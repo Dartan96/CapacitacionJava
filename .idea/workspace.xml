@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="32906cf8-271f-4187-a193-a3e548603e0b" name="Changes" comment="Este projecto es mi guía de práctica en Java 17&#10;&#10;El instructor es Andrés Guzmán y su perfil en Udemy es:https://www.udemy.com/user/andres-guzman-9/" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Dartan96/CapacitacionJava.git&quot;,
+    &quot;accountId&quot;: &quot;6125f45e-6493-4de1-85a5-f11dd565477a&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="31T460ZNdIdUBhiwiZq9CjniZUo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.BusquedaNumMenor.executor": "Run",
+    "Application.EjemploClaseMath.executor": "Run",
+    "Application.EjemploClaseMathRandom.executor": "Run",
+    "Application.EjemploJavaUtil.executor": "Run",
+    "Application.EstanqueGasolina.executor": "Run",
+    "Application.HelloWorld.executor": "Run",
+    "Application.Lambdas.executor": "Run",
+    "Application.MenuIterativo.executor": "Run",
+    "Application.MultiplicarDosNumeros.executor": "Run",
+    "Application.NombreMasLargo.executor": "Run",
+    "Application.OperadorAritmetico.executor": "Run",
+    "Application.OperadorInstanceOf.executor": "Run",
+    "Application.OperadorInstanceOfTiposGenericos.executor": "Run",
+    "Application.OperadorTernario.executor": "Run",
+    "Application.OperadorTernarioNumeroMayor.executor": "Run",
+    "Application.OperadoresAritmetico.executor": "Run",
+    "Application.OperadoresAsignacion.executor": "Run",
+    "Application.OperadoresLogico.executor": "Run",
+    "Application.OperadoresLogicosLogin.executor": "Run",
+    "Application.PasarPorReferenciaDos (1).executor": "Debug",
+    "Application.PasarPorReferenciaDos.executor": "Run",
+    "Application.PrecedenciaOperadores.executor": "Run",
+    "Application.SentenciaForArreglo.executor": "Run",
+    "Application.SentenciaForEach.executor": "Run",
+    "Application.SentenciaIfElse.executor": "Run",
+    "Application.SentenciaIfElseNumDiasMes.executor": "Debug",
+    "Application.SentenciaSwitchCase.executor": "Debug",
+    "Application.SentenciaWhile.executor": "Run",
+    "Application.SentenciasBucleEtiquetas.executor": "Run",
+    "Application.SentenciasBucleEtiquetasBuscar.executor": "Run",
+    "Application.SistCalifAlumnos.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Jorgi/OneDrive/Documentos/Java Capacitacion/MyFirstJavaProject",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="helloworld.tareas.seccion4" />
+      <recent name="helloworld" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.EjemploClaseMathRandom">
+    <configuration name="EjemploClaseMath" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="helloworld.math.EjemploClaseMath" />
+      <module name="MyFirstJavaProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="helloworld.math.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EjemploClaseMathRandom" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="helloworld.math.EjemploClaseMathRandom" />
+      <module name="MyFirstJavaProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="helloworld.math.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EjemploJavaUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="helloworld.fechas.EjemploJavaUtil" />
+      <module name="MyFirstJavaProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="helloworld.fechas.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelloWorld" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="helloworld.HelloWorld" />
+      <module name="MyFirstJavaProject" />
+      <option name="PROGRAM_PARAMETERS" value="Test Arguments 5" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PasarPorReferenciaDos (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="helloworld.wrapper.PasarPorReferenciaDos" />
+      <module name="MyFirstJavaProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="helloworld.wrapper.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PasarPorReferenciaDos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="helloworld.wrapper.PasarPorReferenciaDos" />
+      <module name="MyFirstJavaProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="helloworld.wrapper.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.EjemploClaseMathRandom" />
+        <item itemvalue="Application.EjemploClaseMath" />
+        <item itemvalue="Application.EjemploJavaUtil" />
+        <item itemvalue="Application.PasarPorReferenciaDos (1)" />
+        <item itemvalue="Application.PasarPorReferenciaDos" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="32906cf8-271f-4187-a193-a3e548603e0b" name="Changes" comment="" />
+      <created>1755534550042</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1755534550042</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Este projecto es mi guía de práctica en Java 17&#10;&#10;El instructor es Andrés Guzmán y su perfil en Udemy es:https://www.udemy.com/user/andres-guzman-9/">
+      <option name="closed" value="true" />
+      <created>1771048425870</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1771048425870</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Este projecto es mi guía de práctica en Java 17&#10;&#10;El instructor es Andrés Guzmán y su perfil en Udemy es:https://www.udemy.com/user/andres-guzman-9/" />
+    <option name="LAST_COMMIT_MESSAGE" value="Este projecto es mi guía de práctica en Java 17&#10;&#10;El instructor es Andrés Guzmán y su perfil en Udemy es:https://www.udemy.com/user/andres-guzman-9/" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/helloworld/sentenciaifelse/SentenciaIfElse.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/helloworld/sentenciaifelse/SentenciaIfElseNumDiasMes.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/helloworld/sentenciaifelse/SentenciaSwitchCase.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/helloworld/wrapper/PasarPorReferenciaDos.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="github-copilot-workspace">
+    <instructionFileLocations>
+      <option value=".github/instructions" />
+    </instructionFileLocations>
+    <promptFileLocations>
+      <option value=".github/prompts" />
+    </promptFileLocations>
+  </component>
+</project>
